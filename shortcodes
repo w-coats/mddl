@@ -1,0 +1,20 @@
+```
+<section id="top">Publications are in two main categories: <a href="#Engineering-Education">Engineering Education</a> and <a href="#RMP">Randomized Motion Planning Algorithms</a>.</section>
+
+<hr />
+
+<h2 id="Engineering-Education">Engineering Education</h2>
+<a href="#Engineering-Education-Pubs">Publications in Refereed Journals and Conferences</a> | <a href="#Engineering-Education-Other">Presentations, Panels, and Other Publications</a> | <a href="#top">Back to Top</a>
+<h3 id="Engineering-Education-Pubs">Publications in Refereed Journals and Conferences</h3>
+[display-posts post_type="publication" taxonomy="publication_type" tax_term="Journal,Conference,Workshop" tag="engineeringeducation" order="DESC" posts_per_page="200" include_date="false" include_title="true" include_excerpt="true" include_excerpt_dash="false" wrapper="div" wrapper_class="display-posts-listing-pubs"]
+<h3 id="Engineering-Education-Other">Presentations, Panels, and Other Publications</h3>
+[display-posts post_type="publication" taxonomy="publication_type" tax_term="Other" tag="engineeringeducation" order="DESC" posts_per_page="200" include_date="false" include_title="true" include_excerpt="true" include_excerpt_dash="false" wrapper="div" wrapper_class="display-posts-listing-pubs"]
+
+<hr />
+
+<h2 id="RMP">Randomized Motion Planning Algorithms</h2>
+<a href="#RMP-Pubs">Publications in Refereed Journals and Conferences</a> | <a href="#top">Back to Top</a>
+<h3 id="RMP-Pubs">Publications in Refereed Journals and Conferences</h3>
+[display-posts post_type="publication" taxonomy="subject_area" tax_term="'Randomized Motion Planning Algorithms'" order="DESC" posts_per_page="200" include_date="false" include_title="true" include_excerpt="true" include_excerpt_dash="false" wrapper="div" wrapper_class="display-posts-listing-pubs"]
+
+```
